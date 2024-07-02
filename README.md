@@ -1,16 +1,12 @@
-## Hi there 👋
+## Yo Wassup People
 
-<!--
-**Drixxytec/Drixxytec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 14
+- Drico
+- i love epic games fortnite
+- real
+- help me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| REPS | INFORMATION | LINK |
+|------|-------------|------|
+| Spoiler | Builds for a game i like 👀| [nuh uh](github.com/Drixxytec) |
+| Ez-Extractor | Extracts any zip under 5 mins | [Link](https://github.com/Drixxytec/Ez-Extractor)]
