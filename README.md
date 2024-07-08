@@ -3,7 +3,7 @@
 - Drico
 - i love epic games fortnite
 - real
-- help me
+- i mostly do python 🤑
 
 | REPS | INFORMATION | LINK |
 |------|-------------|------|
