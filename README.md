@@ -8,5 +8,5 @@
 
 | REPS | INFORMATION | LINK |
 |------|-------------|------|
-| Spoiler | Builds for a game i like 👀| [nuh uh](github.com/Drixxytec) |
+| TBD | TBD | [TBD](github.com/Drixxytec) |
 | Ez-Extractor | Extracts any zip under 5 mins | [Link](https://github.com/Drixxytec/Ez-Extractor) |
