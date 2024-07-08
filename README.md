@@ -1,6 +1,5 @@
 ## Yo Wassup People
 
-- 14
 - Drico
 - i love epic games fortnite
 - real
