@@ -1,5 +1,5 @@
  <p align="center">
-# Drico
+ <strong>Drico</strong>
 </p>
 
 - i love epic games fortnite
