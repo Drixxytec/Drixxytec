@@ -1,6 +1,4 @@
- <p align="center">
- <strong>Drico</strong>
-</p>
+<h1 style="text-align: center;">Drico</h1>
 
 - i love epic games fortnite
 - real
