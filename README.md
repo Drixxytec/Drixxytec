@@ -1,11 +1,13 @@
-## Yo Wassup People
+<p align="center">
+## Drico
+</p>
 
-- Drico
 - i love epic games fortnite
 - real
 - i mostly do python 🤑
 
-| REPS | INFORMATION | LINK |
-|------|-------------|------|
-| TBD | TBD | [TBD](github.com/Drixxytec) |
-| Ez-Extractor | Extracts any zip under 5 mins | [Link](https://github.com/Drixxytec/Ez-Extractor) |
+
+![Drixxytec's Stats](https://github-readme-stats.vercel.app/api?username=Drixxytec&theme=highcontrast&show_icons=true&hide_border=true&count_private=false) ![Drixxytec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drixxytec&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+
+
